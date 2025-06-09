@@ -52,5 +52,5 @@ To run CyberBot every time your PC starts:
 - To reset RSS memory:
     - Delete `last_seen_entries.json` to force reposting all feeds
 
-🛡️ Powered by Mistral via Ollama  
+ Powered by Mistral via Ollama  
 
